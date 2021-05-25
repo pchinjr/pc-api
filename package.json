@@ -10,6 +10,12 @@
           "method": "any",
           "src": "."
         }
+      },
+      {
+        "/images": {
+          "method": "get",
+          "src": "./api"
+        }
       }
     ]
   },
